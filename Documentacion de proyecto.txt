@@ -1,0 +1,7 @@
+Las redes de computadoras permiten compartir recursos e información de 
+manera eficiente entre diferentes dispositivos conectados. A través de 
+protocolos de comunicación estandarizados, los equipos pueden intercambiar 
+datos en tiempo real sin importar la distancia física. Por esta razón, la 
+infraestructura de redes se ha convertido en un pilar fundamental para el 
+funcionamiento de 
+internet y de los sistemas empresariales modernos.
